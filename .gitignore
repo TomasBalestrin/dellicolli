@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+._*
+
+# Editores
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Prints de conversa com clientes — NÃO versionar.
+# Repositório público: as mensagens ficariam acessíveis a qualquer pessoa e
+# permanentes no histórico do Git. Ver DEPOIMENTOS-LEIA-ME.md.
+assets/depoimentos/
+briefing-*.jpeg
+briefing-*.jpg
+
+# Originais do WhatsApp (duplicados — as versões em uso estão em assets/)
+*_image.jpg
