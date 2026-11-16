@@ -1,4 +1,4 @@
-# Delli Colli Advocacia — site institucional
+# Delli Colli Advocacia
 
 Site estático do escritório Delli Colli Advocacia (Maringá/PR), com atuação em
 direito do consumidor e direito bancário.
@@ -6,7 +6,7 @@ direito do consumidor e direito bancário.
 ## Estrutura
 
 ```
-index.html               Home — apresentação, áreas, a advogada, processo, FAQ
+index.html               Home: apresentação, áreas, a advogada, processo, FAQ
 atraso-de-voo.html       Landing de casos aéreos (carro-chefe)
 dividas-bancarias.html   Landing de casos bancários
 assets/
@@ -30,15 +30,15 @@ Depois abra <http://localhost:8080>.
 
 ## Decisões de implementação
 
-**Paleta** derivada das próprias fotografias da advogada — o oxblood do veludo e a
+**Paleta** derivada das próprias fotografias da advogada: o oxblood do veludo e a
 luz âmbar do ambiente viraram as cores da marca. Tokens em `:root`, no topo de
 `assets/style.css`.
 
 **Tipografia:** Fraunces (display) e Inter (texto).
 
 **SEO:** cada página tem `title`, `meta description` e `canonical` próprios, além de
-dados estruturados schema.org — `LegalService` na home, `Service` + `FAQPage` nas
-landings, o que permite ao Google exibir as perguntas direto no resultado de busca.
+dados estruturados schema.org (`LegalService` na home, `Service` + `FAQPage` nas
+landings), o que permite ao Google exibir as perguntas direto no resultado de busca.
 
 **Acessibilidade:** um `<h1>` por página, skip link, foco visível por teclado,
 `prefers-reduced-motion` respeitado e textos alternativos nas imagens.
@@ -49,7 +49,7 @@ O conteúdo segue o Provimento nº 205/2021 e o Código de Ética e Disciplina d
 caráter informativo, sem promessa de resultado e sem captação de clientela.
 
 Os prints de conversa com clientes enviados no briefing **não são versionados nem
-publicados** — ver [DEPOIMENTOS-LEIA-ME.md](DEPOIMENTOS-LEIA-ME.md) para o parecer
+publicados**. Ver [DEPOIMENTOS-LEIA-ME.md](DEPOIMENTOS-LEIA-ME.md) para o parecer
 completo e o código pronto, caso a decisão seja outra.
 
 ## Pendências

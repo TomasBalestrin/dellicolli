@@ -1,4 +1,4 @@
-# Sobre os prints de WhatsApp — parecer e instruções
+# Sobre os prints de WhatsApp: parecer e instruções
 
 ## Resumo
 
@@ -27,7 +27,7 @@ e a captação por apelo emocional. O conteúdo das mensagens é integralmente e
 - "não tenho nem palavras pra lhe agradecer"
 - "vc é uma pessoa muito especial para mim"
 
-Nenhuma delas informa sobre a atuação — todas apelam ao sentimento.
+Nenhuma delas informa sobre a atuação. Todas apelam ao sentimento.
 
 ### 3. Sigilo profissional
 O **Código de Ética e Disciplina da OAB (art. 35 e seguintes)** trata o sigilo como dever
@@ -37,7 +37,7 @@ sem nome, expõe essa relação. Um dos prints mostra inclusive a resposta da ad
 
 ### 4. Risco específico do print da pizza
 A mensagem "Vou mandar as Pizzas e refrigerante" pode ser lida como brinde ou forma de
-pagamento informal. É o print de maior risco do conjunto — recomendo descartá-lo
+pagamento informal. É o print de maior risco do conjunto. Recomendo descartá-lo
 independentemente da decisão sobre os demais.
 
 ### 5. Resultado implícito
@@ -52,8 +52,8 @@ Prova social em conformidade, que cumpre a mesma função de conversão sem o ri
 
 | Seção no site | Função |
 |---|---|
-| **Painel de direitos** (hero) | Demonstra domínio técnico concreto da matéria — mais persuasivo que elogio genérico |
-| **Números do escritório** | 6 anos e 200+ clientes, na seção "A advogada" — dado objetivo e verificável |
+| **Painel de direitos** (hero) | Demonstra domínio técnico concreto da matéria. Mais persuasivo que elogio genérico |
+| **Números do escritório** | 6 anos e 200+ clientes, na seção "A advogada". Dado objetivo e verificável |
 | **Compromissos do escritório** | Atendimento direto, honorários por escrito, retorno, sigilo |
 | **Como funciona** | Transparência de processo, que é o que reduz o receio real de quem contrata |
 | **Dúvidas frequentes** | Autoridade demonstrada ao responder, não afirmada |
@@ -69,7 +69,7 @@ siga estes passos de mitigação **antes** de publicar:
 2. **Descarte o print da pizza** (`briefing-1794266407076-73s31p.jpeg`).
 3. **Descarte o print com a resposta da advogada** (`briefing-1794266410679-wjvl1t.jpeg`).
 4. **Recorte os horários** das mensagens, que ajudam a identificar conversas.
-5. **Rotule a seção** como "Mensagens recebidas, publicadas com autorização" — nunca
+5. **Rotule a seção** como "Mensagens recebidas, publicadas com autorização". Nunca
    como "Depoimentos" ou "O que dizem nossos clientes".
 
 ### Código pronto
@@ -107,7 +107,7 @@ e acrescente o CSS indicado ao final da folha de estilo.
 
     <p class="prints__note">
       Reproduções autorizadas pelos respectivos remetentes. Resultados anteriores não
-      representam garantia de resultado futuro — cada caso depende de análise individual.
+      representam garantia de resultado futuro. Cada caso depende de análise individual.
     </p>
   </div>
 </section>
